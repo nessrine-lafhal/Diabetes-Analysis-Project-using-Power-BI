@@ -75,7 +75,10 @@ dans un contexte organisationnel.
 Dans les sections suivantes on va voir une explication détaillé pour chaque étape.
 
 ## test
+![test1](https://github.com/nessrine-lafhal/Diabetes-Analysis-Project-using-Power-BI/blob/main/pic1.png)
 ![test1](https://github.com/nessrine-lafhal/Diabetes-Analysis-Project-using-Power-BI/blob/main/pic2.png)
+![test1](https://github.com/nessrine-lafhal/Diabetes-Analysis-Project-using-Power-BI/blob/main/pic3.png)
+![test1](https://github.com/nessrine-lafhal/Diabetes-Analysis-Project-using-Power-BI/blob/main/pic4.png)
 
 
 ## Rapport
