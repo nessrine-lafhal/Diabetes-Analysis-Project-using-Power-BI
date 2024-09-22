@@ -54,3 +54,8 @@ L'objectiffinal de ce projet est de fournir desinformations exploitables pourla 
 matière de santé, que ce soit pourla prévention, la gestion ou la recherche de nouvelles approches
 thérapeutiques.Lesrésultats de notre analyse contribueront à renforcerles connaissances dansle
 domaine médical et à améliorerla compréhension desimplicationsliées au diabète
+
+## Rapport
+
+[Download the Report](path/to/your/report.pdf)
+
