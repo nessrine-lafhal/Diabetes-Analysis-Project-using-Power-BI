@@ -55,6 +55,25 @@ matière de santé, que ce soit pourla prévention, la gestion ou la recherche d
 thérapeutiques.Lesrésultats de notre analyse contribueront à renforcerles connaissances dansle
 domaine médical et à améliorerla compréhension desimplicationsliées au diabète
 
+## L'architecture fonctionnelle d'un système décisionnel
+L'architecture fonctionnelle d'un système décisionnel constitue le cadre organisationnel et
+technologique qui permet la collecte, le stockage, le traitement, l'analyse et la présentation des
+données pour soutenir les processus de prise de décision au sein d'une entreprise. Elle est conçue
+pour répondre aux besoins spécifiques d'analyse et d'information des utilisateurs, qu'ils soient des
+décideurs, des analystes ou d'autres parties prenantes. Voici une description générale des
+composants clés de l'architecture fonctionnelle d'un système décisionnel :
+* Identification de la Source de Données .
+* Processus d'Extraction, Transformation et Chargement (ETL) .
+* Modélisation des Données
+* Exploitation de l’entrepôt de données.
+l'architecture fonctionnelle d'un système décisionnel offre un environnement robuste et structuré
+qui permet aux organisations d'exploiter leurs données de manière efficace, facilitant ainsi la prise
+de décision informée et stratégique. Elle repose sur des composants technologiques et des
+processus soigneusement conçus pour répondre aux besoins complexes de l'analyse décisionnelle
+dans un contexte organisationnel.
+Dans les sections suivantes on va voir une explication détaillé pour chaque étape.
+
+
 ## Rapport
 
 [Download the Report](https://github.com/nessrine-lafhal/Diabetes-Analysis-Project-using-Power-BI/blob/main/Rapport%20(2).pdf)
